@@ -449,4 +449,4 @@
 | 443 | CGTN西语 | CGTN | <https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8> |
 | 444 | CGTN阿语 | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 
-Updated at **Sat Nov 30 2024 04:15:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 30 2024 06:17:00 GMT+0000 (Coordinated Universal Time)**
